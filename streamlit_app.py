@@ -76,7 +76,7 @@ st.markdown(
     }
 
     section[data-testid="stSidebar"] {
-        background-color: #6F826A;
+        background-color: #3E3F5B;
         padding: 20px;
         # border-right: 3px solid #FF5733;
     }
